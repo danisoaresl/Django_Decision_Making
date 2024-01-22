@@ -1,6 +1,4 @@
-# exerc_tomada_de_decisao
-
-# Meus EXERCÍCIOS Tomada de Decisão WoMakersCode | praticando Python
+# Exercícios Tomada de Decisão | Python
 
 
 # Bootcamp Back-End Python e Django | WoMakersCode
